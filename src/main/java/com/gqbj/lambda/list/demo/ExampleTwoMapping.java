@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @author 鲁班
+ * @author 宫崎不骏
  * @className ExampleTwoMapping
  * @Version 1.0
  * @Description: Groupingby操作

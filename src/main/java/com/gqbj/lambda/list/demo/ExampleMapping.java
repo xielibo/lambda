@@ -1,6 +1,5 @@
 package com.gqbj.lambda.list.demo;
 
-import com.gqbj.lambda.list.demo.Item;
 
 import java.math.BigDecimal;
 import java.util.Arrays;
@@ -10,7 +9,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
- * @author 鲁班
+ * @author 宫崎不骏
  * @className ExampleMapping
  * @Version 1.0
  * @Description: Groupingby操作

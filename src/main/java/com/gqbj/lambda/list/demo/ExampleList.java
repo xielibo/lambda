@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author 鲁班
+ * @author 宫崎不骏
  * @className ExampleList
  * @Version 1.0
  * @Description: List操作

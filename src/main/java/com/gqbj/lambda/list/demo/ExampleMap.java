@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author 鲁班
+ * @author 宫崎不骏
  * @className ExampleMap
  * @Version 1.0
  * @Description: Map操作
